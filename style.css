@@ -1,0 +1,16 @@
+.demo{
+    text-align: left;
+    float: left;
+    margin: 10px;
+}
+.demo button{
+    color:blue;
+    background: none;
+    border: 1px blue solid;
+    width: 180px;
+    border-radius: 10px;
+}
+.demo1{
+    float: right;
+    margin-right: 80px;
+}
